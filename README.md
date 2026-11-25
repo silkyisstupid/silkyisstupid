@@ -9,5 +9,5 @@
 
   <p align=center> ︶︶︶︶
 &nbsp; 
-<p align=center> ꒱꒱ &nbsp; &nbsp; &nbsp; ${textsf{\color{#FF9F32}hi}}$ &nbsp; &nbsp; &nbsp; 𓈒 &nbsp; &nbsp; &nbsp; &nbsp; 𓏼
+<p align=center> ꒱꒱ &nbsp; &nbsp; &nbsp; ${\textsf{\color{#FF9F32}hi}}$ &nbsp; &nbsp; &nbsp; 𓈒 &nbsp; &nbsp; &nbsp; &nbsp; 𓏼
 <p align=center> im gonna edit this later. probably
